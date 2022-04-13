@@ -26,6 +26,7 @@ MIT
 ## How to Contribute
 If you wish to contribute please contact TWelk.
 ## Questions
+Contact TWelk at GitHub or by email:
 * [gitHubLink](https://github.com/TWelk)
 * <a href="mailto:it-support@kth.se">twelker08@gmail.com</a>
 ## Demo GIF
