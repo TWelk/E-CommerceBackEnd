@@ -13,6 +13,8 @@
 To install, clone the repo and use npm i to install packages. Follow my youtube video for more instructions.
 ## Usage
 Once installed, use mysql to source the database and then use node server.js to start the server. You can use Insomnia from there to test and create data.
+## Testing
+I used Insamina to test the backend structure and routes when using the GET, POST, PUT, and DELETE functions.
 ## Credits
 TWelk
 ## License
