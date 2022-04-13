@@ -11,7 +11,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
-- [Demo Link](#demolink)
+- [Demonstration](#demonstration)
 ## Installation
 To install, clone the repo and use npm i to install packages. Follow my demonstration video below for more instructions.
 ## Usage
@@ -30,7 +30,7 @@ If you wish to contribute please contact TWelk.
 * <a href="mailto:it-support@kth.se">twelker08@gmail.com</a>
 ## Demo GIF
 ![DemoVideo](./Assets/Images/ecommerce.gif)
-## Demo Link
+## Demonstration
 * [Demonstration Video](https://www.youtube.com/watch?v=e5c2T9muUjE)
 ## Repo Link
 * [Repo](https://github.com/TWelk/E-CommerceBackEnd)
