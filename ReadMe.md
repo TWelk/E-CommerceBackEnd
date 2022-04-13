@@ -28,7 +28,7 @@ If you wish to contribute please contact TWelk.
 ## Questions
 Contact TWelk at GitHub or by email:
 * [GitHub](https://github.com/TWelk)
-* [Email](<a href="mailto:it-support@kth.se">twelker08@gmail.com</a>)
+* <a href="mailto:it-support@kth.se">Email</a>
 ## Demo GIF
 ![DemoVideo](./Assets/Images/ecommerce.gif)
 ## Demonstration
