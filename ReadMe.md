@@ -25,6 +25,6 @@ If you wish to contribute please contact TWelk.
 ## Demo GIF
 ![DemoVideo](./Assets/Images/ecommerce.gif)
 ## Demo Link
-* [Demonstratin Video](https://www.youtube.com/watch?v=e5c2T9muUjE)
+* [Demonstration Video](https://www.youtube.com/watch?v=e5c2T9muUjE)
 ## Repo Link
 * [Repo](https://github.com/TWelk/E-CommerceBackEnd)
