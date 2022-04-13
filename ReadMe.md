@@ -11,7 +11,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
-- [Demo Link](#demo link)
+- [Demo Link](#demolink)
 ## Installation
 To install, clone the repo and use npm i to install packages. Follow my demonstration video below for more instructions.
 ## Usage
